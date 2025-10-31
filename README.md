@@ -1,0 +1,1 @@
+скриншот в assets -> screens
